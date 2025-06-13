@@ -1,4 +1,6 @@
 # File Manager 
 
 * Support Faster download -- Downloading chunks in parallel
-* Uploading Files 
+* Uploading Files with Upload api.
+
+
